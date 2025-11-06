@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original-wordmark.svg" height="40" alt="C++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C_+_+/C_+_+-original-wordmark.svg" height="40" alt="C++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   
