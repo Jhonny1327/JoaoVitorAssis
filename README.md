@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there  👋</h1>
+<h1 align="center">hey there My name is João Vitor 👋</h1>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
