@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Piedade/SP from Brazil<br><br>- 🔭 I’m looking for a job on programming, perhaps as a developer ...<br>- 📚 I'm studdying systems analysis and development.<br>- ⚡ In my free time I mae my pessoal projects </p>
+<p align="left">I'm Piedade/SP from Brazil<br><br>- 🔭 I’m looking for a job on programming, perhaps as a developer ...<br>- 📚 I'm studdying systems analysis and development.<br>- ⚡ In my free time I make my pessoal projects </p>
 
 ###
 
